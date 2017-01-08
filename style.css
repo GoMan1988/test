@@ -1,5 +1,7 @@
-body {
-  background: #847436; }
+.content {
+  background: #fff; }
+  .content__block {
+    background: #ffccdd;
+    width: 500px; }
 
 /*# sourceMappingURL=style.css.map */
-

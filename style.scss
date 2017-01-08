@@ -1,3 +1,10 @@
-body {
+.content {
     background: #fff;
+
+    &__block{
+    $size:500px;
+    background: #ffccdd;
+    width:$size;
+
+    }
 }

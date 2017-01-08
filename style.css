@@ -2,6 +2,7 @@
   background: #fff; }
   .content__block {
     background: #ffccdd;
-    width: 500px; }
+    width: 500px;
+    margin: 0 auto; }
 
 /*# sourceMappingURL=style.css.map */
